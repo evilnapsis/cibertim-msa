@@ -1,0 +1,10 @@
+c:\users\agustin\documents\visual studio 2013\Projects\cyberman-msa\cyberman-msa\bin\Debug\cyberman-msa.exe
+c:\users\agustin\documents\visual studio 2013\Projects\cyberman-msa\cyberman-msa\bin\Debug\cyberman-msa.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\cyberman-msa\cyberman-msa\obj\Debug\cyberman-msa.csprojResolveAssemblyReference.cache
+c:\users\agustin\documents\visual studio 2013\Projects\cyberman-msa\cyberman-msa\obj\Debug\cyberman_msa.Form1.resources
+c:\users\agustin\documents\visual studio 2013\Projects\cyberman-msa\cyberman-msa\obj\Debug\cyberman_msa.Properties.Resources.resources
+c:\users\agustin\documents\visual studio 2013\Projects\cyberman-msa\cyberman-msa\obj\Debug\cyberman-msa.csproj.GenerateResource.Cache
+c:\users\agustin\documents\visual studio 2013\Projects\cyberman-msa\cyberman-msa\obj\Debug\cyberman-msa.exe
+c:\users\agustin\documents\visual studio 2013\Projects\cyberman-msa\cyberman-msa\obj\Debug\cyberman-msa.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\cyberman-msa\cyberman-msa\obj\Debug\cyberman_msa.PCForm.resources
+c:\users\agustin\documents\visual studio 2013\Projects\cyberman-msa\cyberman-msa\obj\Debug\cyberman_msa.About.resources
